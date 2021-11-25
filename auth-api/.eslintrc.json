@@ -10,5 +10,6 @@
         "ecmaVersion": 13
     },
     "rules": {
+        "no-undef": "off"
     }
 }
